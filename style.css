@@ -38,9 +38,14 @@ body
     justify-content: center;     
  }
 
- main div input
+ main div input, button
  {
      margin: 10px;
+     width:70%;
+     height: 35px;
+     border-radius: 5px;
+     outline: none;
+     border: none;
  }
  footer{
     width: 100%;
